@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("master");
         System.out.println("git_fix");
         System.out.println("master1");
+        System.out.println("dev");
     }
 }
